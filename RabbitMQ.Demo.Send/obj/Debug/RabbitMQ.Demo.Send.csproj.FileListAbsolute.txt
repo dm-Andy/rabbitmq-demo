@@ -1,0 +1,15 @@
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\obj\Debug\RabbitMQ.Demo.Send.csprojResolveAssemblyReference.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.Send.exe.config
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.Send.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.Send.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\obj\Debug\RabbitMQ.Demo.Send.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo\obj\Debug\RabbitMQ.Demo.Send.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\bin\Debug\RabbitMQ.Demo.Send.exe.config
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\bin\Debug\RabbitMQ.Demo.Send.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\bin\Debug\RabbitMQ.Demo.Send.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\obj\Debug\RabbitMQ.Demo.Send.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\消息队列\RabbitMQ.Demo.Send\obj\Debug\RabbitMQ.Demo.Send.pdb

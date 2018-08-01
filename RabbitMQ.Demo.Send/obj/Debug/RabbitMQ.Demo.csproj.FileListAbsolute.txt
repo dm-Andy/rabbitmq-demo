@@ -1,0 +1,1 @@
+c:\users\dreamer\documents\visual studio 2015\Projects\消息队列\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.exe.config
